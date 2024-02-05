@@ -1,5 +1,5 @@
 import streamlit as st
-from scipy.stats import norm
+from scipy.stats.distrubutions import norm
 import math
 import numpy as np
 import yfinance as yf
